@@ -1,0 +1,12 @@
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\bin\Debug\FightIslands.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\obj\Debug\FightIslands.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\obj\Debug\FightIslands.MainForm.resources
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\obj\Debug\FightIslands.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\obj\Debug\FightIslands.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\bin\Debug\FightIslands.exe
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\bin\Debug\FightIslands.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\obj\Debug\FightIslands.exe
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\obj\Debug\FightIslands.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\obj\Debug\FightIslands.Lobby.resources
+C:\Users\Daniel\documents\visual studio 2013\Projects\FightIslands\FightIslands\obj\Debug\FightIslands.Game.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\FightIslands\FightIslands\obj\Debug\FightIslands.Reporter.resources
